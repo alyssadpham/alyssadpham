@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alyssadpham
-- 👀 Comp Sci is my minor.
-- 🌱 I’m currently learning C++, and probably JavaScript and Python in the far future.
-- 💞️ I’m looking to collaborate, or just to learn more about C++ projects.
-- 📫 Reach me via Discord (_ecchisenpai#3532).
+- 👀 Major in Biological Sciences, minor in pure Mathematics (or applied, depending on how useful the knowledge is to my major.)
+- 🌱 I’m currently learning Python, probably Java and C++ in the far future.
+- 💞️ I’m looking to collaborate, or just to learn more about Python projects.
+- 📫 Reach me via Discord (blueberria).
 
 <!---
 alyssadpham/alyssadpham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
