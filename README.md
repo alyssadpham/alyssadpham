@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alyssadpham
-- 👀 Major in Biological Sciences, minor in pure Mathematics (or applied, depending on how useful the knowledge is to my major.)
-- 🌱 I’m currently learning Python, probably Java and C++ in the far future.
-- 💞️ I’m looking to collaborate, or just to learn more about Python projects.
-- 📫 Reach me via Discord (blueberria).
+- 👋 Hi, I’m @alyssadpham!
+- 👀 I am a recent graduate with major in Biological Sciences, minor in Mathematics (pure or applied, depending on how useful the knowledge is to my major.)
+- 🌱 I’m proficient in MATLAB and R (along with documenting language Latex), currently learning Python, probably Java and C++ if my career ever needs them.
+- 💞️ I’m looking to collaborate, or just to learn more about all kinds of Python projects, from easy to difficult.
+- 📫 Please feel free to reach me via Discord (blueberria) or email (alyssadpham@gmail.com).
 
 <!---
 alyssadpham/alyssadpham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
